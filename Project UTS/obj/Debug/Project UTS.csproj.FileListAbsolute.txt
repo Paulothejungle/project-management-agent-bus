@@ -1,0 +1,12 @@
+D:\Tugas Form Rival\Project UTS\bin\Debug\Project UTS.exe
+D:\Tugas Form Rival\Project UTS\bin\Debug\Project UTS.exe.config
+D:\Tugas Form Rival\Project UTS\obj\Debug\Project UTS.csproj.AssemblyReference.cache
+D:\Tugas Form Rival\Project UTS\obj\Debug\Project_UTS.FormLogin.resources
+D:\Tugas Form Rival\Project UTS\obj\Debug\Project_UTS.FormPemesanan.resources
+D:\Tugas Form Rival\Project UTS\obj\Debug\Project_UTS.Properties.Resources.resources
+D:\Tugas Form Rival\Project UTS\obj\Debug\Project UTS.csproj.GenerateResource.cache
+D:\Tugas Form Rival\Project UTS\obj\Debug\Project UTS.csproj.CoreCompileInputs.cache
+D:\Tugas Form Rival\Project UTS\obj\Debug\Project UTS.exe
+D:\Tugas Form Rival\Project UTS\obj\Debug\Project UTS.pdb
+D:\Tugas Form Rival\Project UTS\bin\Debug\Project UTS.pdb
+D:\Tugas Form Rival\Project UTS\obj\Debug\Project_UTS.FormPembayaran.resources
